@@ -1,1 +1,1 @@
-# A handbook repository for practising mern specially react.js all the basic logics implemented
+# A basic pizza ordering application
